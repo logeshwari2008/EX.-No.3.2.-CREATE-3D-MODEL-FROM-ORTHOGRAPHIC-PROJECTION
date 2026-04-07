@@ -45,7 +45,8 @@ To create a 3D model from given orthographic projection.
 
 
 
-[Experiment 6 Drawing.pdf](https://github.com/user-attachments/files/26505316/Experiment.6.Drawing.pdf)
+<img width="1151" height="817" alt="image" src="https://github.com/user-attachments/assets/f8dc1fb3-bf59-4cf5-aea8-bc8bf7f47652" />
+
 
 
 ## RESULT:
